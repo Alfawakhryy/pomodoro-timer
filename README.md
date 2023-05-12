@@ -6,7 +6,8 @@ A clean, simple, and user-friendly Pomodoro Timer built using React. The app hel
 
 Experience the Pomodoro Timer app in action! Check out the live demo by clicking the link below:
 
-[**Pomodoro Timer Live Demo**]([https://your-deployed-app-url.com/](https://pomodoro-timer-alfawakhryy.netlify.app/))
+
+[**Pomodoro Timer Live Demo**](https://pomodoro-timer-alfawakhryy.netlify.app/)
 
 ## Features
 
